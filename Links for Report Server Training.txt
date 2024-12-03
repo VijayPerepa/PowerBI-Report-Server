@@ -1,0 +1,7 @@
+SQL Database
+
+https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2017.bak
+
+POWER BI Report Server and Power BI Desktop for RS
+
+https://www.microsoft.com/en-us/download/details.aspx?id=105945&culture=en-us&country=us
