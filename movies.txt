@@ -1,0 +1,73 @@
+<Query>
+<XmlData>
+<Data>
+<Row>
+<Title>Alien Covenant</Title>
+<StudioID>4</StudioID>
+<DirectorID>51</DirectorID>
+<GenreIDs>3,10,9</GenreIDs>
+</Row>
+<Row>
+<Title>Arrival</Title>
+<StudioID>2</StudioID>
+<DirectorID>487</DirectorID>
+<GenreIDs>3,2</GenreIDs>
+</Row>
+<Row>
+<Title>Avengers: Infinity War</Title>
+<StudioID>53</StudioID>
+<DirectorID>132</DirectorID>
+<GenreIDs>4,8,3</GenreIDs>
+</Row>
+<Row>
+<Title>Deadpool 2</Title>
+<StudioID>4</StudioID>
+<DirectorID>509</DirectorID>
+<GenreIDs>4,8,7</GenreIDs>
+</Row>
+<Row>
+<Title>Guardians of the Galaxy Vol. 2</Title>
+<StudioID>53</StudioID>
+<DirectorID>128</DirectorID>
+<GenreIDs>4,8,7,3</GenreIDs>
+</Row>
+<Row>
+<Title>Logan</Title>
+<StudioID>53</StudioID>
+<DirectorID>488</DirectorID>
+<GenreIDs>4,8,2</GenreIDs>
+</Row>
+<Row>
+<Title>Spider-Man: Homecoming</Title>
+<StudioID>127</StudioID>
+<DirectorID>510</DirectorID>
+<GenreIDs>4,8,7</GenreIDs>
+</Row>
+<Row>
+<Title>Star Wars: The Last Jedi</Title>
+<StudioID>3</StudioID>
+<DirectorID>485</DirectorID>
+<GenreIDs>4,8,3</GenreIDs>
+</Row>
+<Row>
+<Title>Thor: Ragnarok</Title>
+<StudioID>53</StudioID>
+<DirectorID>511</DirectorID>
+<GenreIDs>4,8,7,3</GenreIDs>
+</Row>
+<Row>
+<Title>Wonder Woman</Title>
+<StudioID>133</StudioID>
+<DirectorID>512</DirectorID>
+<GenreIDs>4,8</GenreIDs>
+</Row>
+<Row>
+<Title>Super Hero</Title>
+<StudioID>10</StudioID>
+<DirectorID>512</DirectorID>
+<GenreIDs>4,8</GenreIDs>
+</Row>
+</Data>
+</XmlData>
+<ElementPath>Data{}/Row{Title(String),StudioID(String),DirectorID(String),GenreIDs(String)}</ElementPath>
+</Query>
